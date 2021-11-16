@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Detections",
+        "repositoryURL": "https://github.com/SaeedRahmatolahi/Detections",
+        "state": {
+          "branch": null,
+          "revision": "c61571fb1c9379fbfb792dfa04fd3aac684026c0",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
